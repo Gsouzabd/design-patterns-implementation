@@ -1,6 +1,6 @@
 <?php
 
-namespace Inc_Woo_We_Payments\Classes\StatusDetails;
+namespace Inc\Classes\StatusDetails;
 
 class statusHistory{
 
